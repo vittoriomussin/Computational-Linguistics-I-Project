@@ -1,22 +1,22 @@
 # Computational-Linguistic-I-Project
 
 |                     |Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
-|---                  |---                  |---                 |
+|---------------      |---------------      |---------------     |
 |Sentences:           |3075                 |1546                |
 |Tokens:              |85253                |48292               |
 
 |                               |Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
-|---                            |---                  |---                 |
+|---------------                |---------------      |---------------     |
 |Mean sentence lenght:          |24.75                |28.01               |
 |Mean token lenght:             |4.39                 |4.56                |
 
 |                                        | Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
-|---                                     | ---                  |---                 |
+|---------------                         | ---------------      |---------------     |
 |Hapax in the firsts 1000 tokens:        | 371                  |258                 |
 
-|Frankenstein.txt|                 |               |
-|---            | ---             |---            |
-|Tokens:        | V size:         |TypeTokenRatio:|
+Frankenstein.txt
+|Tokens:        | Dictionary (unique words) size: |TypeTokenRatio:|
+|---------------| --------------- |---------------|
 |500            | 271             |0.54           |
 |1000           | 487             |0.49           |
 |1500           | 647             |0.43           |
@@ -188,9 +188,9 @@
 |84500          | 9598            |0.11           |
 |85000          | 9624            |0.11           |
 
-|The_Problems_of_Philosophy_by_Bertrand_Russell.txt|                 |               |
-|---            | ---             |---            |
-|Tokens:        | V size:         |TypeTokenRatio:|
+The_Problems_of_Philosophy_by_Bertrand_Russell.txt
+|Tokens:        | Dictionary (unique words) size: |TypeTokenRatio:|
+|---------------| --------------- |---------------|
 |500            | 262             |0.52           |
 |1000           | 406             |0.41           |
 |1500           | 517             |0.34           |
@@ -289,6 +289,6 @@
 |48000          | 4350            |0.09           |
 
 |                               |Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
-|---                            |---                  |---                 |
+|---------------                |---------------      |---------------     |
 |Lexical words:                 |48.67%	              |50.24%	             |
 |Functional words:              |40.18%	              |38.22%	             |

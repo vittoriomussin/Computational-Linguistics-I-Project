@@ -292,3 +292,143 @@ The_Problems_of_Philosophy_by_Bertrand_Russell.txt
 |---------------                |---------------      |---------------     |
 |Lexical words:                 |48.67%	              |50.24%	             |
 |Functional words:              |40.18%	              |38.22%	             |
+
+
+|Frankenstein.txt|                | The_Problems_of_Philosophy_by_Bertrand_Russell.txt|                |
+|-------------- | -------------- | -------------- | -------------- |
+|POS            | Frequency      | POS            | Frequency      |
+|NN             | 11739          | IN             | 6389           |
+|IN             | 9470           | NN             | 6232           |
+|DT             | 7276           | DT             | 4702           |
+|PRP            | 6768           | JJ             | 3507           |
+|VBD            | 5609           | RB             | 2523           |
+|JJ             | 4809           | PRP            | 2410           |
+|CC             | 3933           | NNS            | 2112           |
+|RB             | 3771           | VBZ            | 2109           |
+|NNS            | 3286           | VB             | 1979           |
+|PRP$           | 3267           | CC             | 1561           |
+
+|Frankenstein.txt|                | The_Problems_of_Philosophy_by_Bertrand_Russell.txt|                |
+|-------------- | -------------- | -------------- | -------------- |
+|POS Bigram     | Frequency      | POS Bigram     | Frequency      |
+|DT NN          | 4054           | DT NN          | 2530           |
+|NN IN          | 3378           | NN IN          | 2303           |
+|IN DT          | 3217           | IN DT          | 2029           |
+|PRP VBD        | 2630           | JJ NN          | 1204           |
+|JJ NN          | 2026           | DT JJ          | 1108           |
+|PRP$ NN        | 1874           | IN NN          | 1085           |
+|NN CC          | 1773           | PRP VBP        | 752            |
+|DT JJ          | 1529           | MD VB          | 746            |
+|IN PRP$        | 1406           | TO VB          | 713            |
+|IN NN          | 1355           | JJ NNS         | 693            |
+
+|Frankenstein.txt|                | The_Problems_of_Philosophy_by_Bertrand_Russell.txt|                |
+|-------------- | -------------- | -------------- | -------------- |
+|POS Trigram    | Frequency      | POS Trigram    | Frequency      |
+|IN DT NN       | 1756           | DT NN IN       | 1135           |
+|DT NN IN       | 1682           | IN DT NN       | 1120           |
+|NN IN DT       | 1085           | DT JJ NN       | 722            |
+|DT JJ NN       | 1008           | NN IN DT       | 688            |
+|IN PRP$ NN     | 799            | NN IN NN       | 518            |
+|NN PRP VBD     | 738            | JJ NN IN       | 462            |
+|IN DT JJ       | 691            | IN DT JJ       | 458            |
+|NN IN PRP$     | 590            | PRP MD VB      | 338            |
+|JJ NN IN       | 572            | IN NN IN       | 251            |
+|NN IN NN       | 563            | DT NN VBZ      | 237            |
+
+Frankenstein.txt
+|Adjective      | Frequency      | Adverb         | Frequency      |
+|-------------- | -------------- | -------------- | -------------- |
+|own            | 104            | not            | 551            |
+|first          | 78             | so             | 189            |
+|other          | 75             | now            | 147            |
+|many           | 66             | more           | 114            |
+|same           | 62             | then           | 104            |
+|miserable      | 61             | only           | 97             |
+|few            | 61             | yet            | 94             |
+|dear           | 59             | even           | 81             |
+|such           | 59             | again          | 78             |
+|human          | 54             | most           | 76             |
+|little         | 53             | ever           | 75             |
+|old            | 50             | very           | 73             |
+|more           | 48             | also           | 66             |
+|“              | 46             | still          | 64             |
+|great          | 45             | never          | 63             |
+|happy          | 45             | soon           | 60             |
+|several        | 43             | indeed         | 54             |
+|new            | 39             | often          | 50             |
+|poor           | 38             | thus           | 48             |
+|last           | 31             | away           | 43             |
+
+The_Problems_of_Philosophy_by_Bertrand_Russell.txt
+|Adjective      | Frequency      | Adverb         | Frequency      |
+|-------------- | -------------- | -------------- | -------------- |
+|such           | 150            | not            | 520            |
+|other          | 140            | Thus           | 112            |
+|true           | 129            | only           | 94             |
+|physical       | 94             | so             | 88             |
+|same           | 92             | more           | 62             |
+|certain        | 89             | therefore      | 58             |
+|different      | 76             | very           | 58             |
+|particular     | 68             | really         | 47             |
+|general        | 68             | also           | 47             |
+|many           | 56             | even           | 44             |
+|possible       | 56             | as             | 41             |
+|real           | 45             | never          | 39             |
+|first          | 40             | however        | 37             |
+|more           | 34             | thus           | 33             |
+|common         | 32             | quite          | 32             |
+|complex        | 30             | merely         | 31             |
+|least          | 28             | now            | 30             |
+|great          | 28             | then           | 30             |
+|present        | 28             | just           | 27             |
+|actual         | 27             | far            | 27             |
+
+Frankenstein.txt
+|Bigram                        | Frequency            |Bigram                         |ConditionalProb     | Bigram                         |LMI                 |
+|--------------                | --------------       |--------------                 |--------------      | --------------                 |--------------      |
+|old man                       | 34                   |old man                        |0.00361             | old man                        |448.8               |
+|native country                | 15                   |native country                 |0.00166             | native country                 |197.18              |
+|natural philosophy            | 13                   |natural philosophy             |0.00145             | natural philosophy             |170.7               |
+|fellow creatures              | 10                   |fellow creatures               |0.00114             | fellow creatures               |131.0               |
+|young man                     | 9                    |young man                      |0.00103             | young man                      |117.78              |
+|long time                     | 8                    |long time                      |0.00093             | first time                     |104.61              |
+|first time                    | 8                    |first time                     |0.00093             | many months                    |104.59              |
+|many months                   | 8                    |many months                    |0.00093             | ’ s                            |104.57              |
+|’ s                           | 8                    |’ s                            |0.00093             | long time                      |104.54              |
+|poor girl                     | 7                    |poor girl                      |0.00083             | few minutes                    |91.36               |
+|several hours                 | 7                    |several hours                  |0.00083             | many hours                     |91.36               |
+|dear Victor                   | 7                    |dear Victor                    |0.00083             | dear Victor                    |91.35               |
+|few minutes                   | 7                    |few minutes                    |0.00082             | several hours                  |91.34               |
+|many hours                    | 7                    |many hours                     |0.00082             | poor girl                      |91.33               |
+|short time                    | 6                    |short time                     |0.00073             | own heart                      |78.16               |
+|native town                   | 6                    |next morning                   |0.00073             | same time                      |78.13               |
+|” “                           | 6                    |native town                    |0.00072             | human beings                   |78.12               |
+|next morning                  | 6                    |” “                            |0.00072             | native town                    |78.1                |
+|same time                     | 6                    |same time                      |0.00072             | ” “                            |78.1                |
+|human beings                  | 6                    |human beings                   |0.00072             | short time                     |78.09               |
+
+The_Problems_of_Philosophy_by_Bertrand_Russell.txt
+|Bigram                        | Frequency            |Bigram                         |ConditionalProb     | Bigram                         |LMI                 |
+|--------------                | --------------       |--------------                 |--------------      | --------------                 |--------------      |
+|physical objects              | 42                   |physical objects               |0.00959             | physical objects               |508.03              |
+|_a priori_                    | 21                   |_a priori_                     |0.00499             | _a priori_                     |252.83              |
+|physical object               | 19                   |physical object                |0.00446             | physical object                |229.06              |
+|physical space                | 16                   |physical space                 |0.00379             | physical space                 |192.68              |
+|inductive principle           | 15                   |inductive principle            |0.00363             | inductive principle            |180.19              |
+|real table                    | 14                   |real table                     |0.00338             | real table                     |168.2               |
+|other people                  | 13                   |other people                   |0.00309             | other people                   |156.49              |
+|intuitive knowledge           | 12                   |intuitive knowledge            |0.00295             | intuitive knowledge            |143.88              |
+|other things                  | 11                   |different people               |0.00269             | such knowledge                 |132.25              |
+|such knowledge                | 11                   |other things                   |0.00265             | other things                   |132.21              |
+|different people              | 11                   |such knowledge                 |0.00264             | different people               |131.98              |
+|derivative knowledge          | 10                   |derivative knowledge           |0.0025              | common sense                   |119.72              |
+|common sense                  | 10                   |common sense                   |0.00249             | derivative knowledge           |119.65              |
+|logical principles            | 9                    |logical principles             |0.00227             | general principles             |107.73              |
+|general principles            | 9                    |general principles             |0.00224             | general proposition            |107.73              |
+|general proposition           | 9                    |general proposition            |0.00224             | logical principles             |107.59              |
+|complex unity                 | 8                    |complex unity                  |0.00204             | such things                    |95.82               |
+|general law                   | 8                    |general law                    |0.00202             | general law                    |95.61               |
+|such things                   | 8                    |such things                    |0.00198             | complex unity                  |95.51               |
+|particular case               | 7                    |daily life                     |0.00182             | same time                      |83.56               |
+

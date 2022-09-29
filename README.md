@@ -1,5 +1,7 @@
 # Computational-Linguistic-I-Project
 
+## General Corpora Analysis
+
 |                     |Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
 |---------------      |---------------      |---------------     |
 |Sentences:           |3075                 |1546                |
@@ -14,13 +16,10 @@
 |---------------                         | ---------------      |---------------     |
 |Hapax in the firsts 1000 tokens:        | 371                  |258                 |
 
-Frankenstein.txt
+### Type Token Ratio
 
 ![image](https://user-images.githubusercontent.com/81376065/193135144-f474736f-8c73-49a5-a954-c7084b9974a7.png)
 
-
-
-The_Problems_of_Philosophy_by_Bertrand_Russell.txt
 
 ![image](https://user-images.githubusercontent.com/81376065/193135327-afdc41a2-cd12-44d3-8927-1fd280ce9589.png)
 
@@ -32,7 +31,7 @@ The_Problems_of_Philosophy_by_Bertrand_Russell.txt
 
 
 
-
+## POS and Lexical Analysis
 
 
 

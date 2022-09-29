@@ -15,7 +15,7 @@
 |Hapax in the firsts 1000 tokens:        | 371                  |258                 |
 
 Frankenstein.txt
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/81376065/193134738-257cbb0a-213e-4e1b-9d26-42b7ede70bd4.png)
 
 
 The_Problems_of_Philosophy_by_Bertrand_Russell.txt

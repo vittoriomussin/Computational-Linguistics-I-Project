@@ -31,7 +31,7 @@ Program 2 - For each of the two corpora extract the following information:
 
 
 after identifying and classifying the Named Entities (NEs) in the text, extract:
-    - the 15 most frequent proper names of persons (types), ordered by frequency.
+- the 15 most frequent proper names of persons (types), ordered by frequency.
 
 
 ## General Corpora Analysis

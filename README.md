@@ -1,5 +1,34 @@
 # Computational-Linguistic-I-Project
 
+Program 1 - Compare the two texts based on the following statistical information:
+
+- the number of sentences and tokens;
+
+- the average length of sentences in terms of tokens and tokens (excluding punctuation) in terms of characters;
+
+- the number of hapaxes on the first 1000 tokens;
+
+- the vocabulary size and lexical richness calculated through the Type Token Ratio (TTR), in both cases calculated as the corpus increases for incremental portions of 500 tokens; (*I have replaced this output with a plot)
+
+- percentage distribution of the set of full words (Adjectives, Nouns, Verbs, Adverbs) and functional words (Articles, Prepositions, Conjunctions, Pronouns).
+
+
+Program 2 - For each of the two corpora extract the following information:
+- extract and sort in order of decreasing frequency, indicating also the relative frequency:
+◦ the 10 most frequent PoS (Part-of-Speech);
+◦ the 10 most frequent PoS bigrams;
+◦ the 10 most frequent PoS trigrams;
+◦ the 20 most frequent Adjectives and 20 most frequent Adverbs;
+
+- extract and sort the 20 bigrams composed of Adjective and Noun and where each token has a frequency greater than 3:
+◦ with maximum frequency, also indicating the relative frequency;
+◦ with maximum conditional probability, also indicating the relative probability;
+◦ with maximum associative strength (calculated in terms of Local Mutual Information), also indicating the relative strength of association;
+
+after identifying and classifying the Named Entities (NEs) in the text, extract:
+◦ the 15 most frequent proper names of persons (types), ordered by frequency.
+
+
 ## General Corpora Analysis
 
 |                     |Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|

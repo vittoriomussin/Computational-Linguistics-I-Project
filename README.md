@@ -33,8 +33,9 @@ Program 2 - For each of the two corpora extract the following information:
 after identifying and classifying the Named Entities (NEs) in the text, extract:
 - the 15 most frequent proper names of persons (types), ordered by frequency.
 
+# Output Exemple
 
-## General Corpora Analysis
+## General Statistics
 
 |                     |Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
 |---------------      |---------------      |---------------     |
@@ -65,7 +66,7 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 
 
 
-## POS and Lexical Analysis
+## Information Extraction
 
 
 

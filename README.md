@@ -117,7 +117,8 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 |JJ NN IN       | 572            | IN NN IN       | 251            |
 |NN IN NN       | 563            | DT NN VBZ      | 237            |
 
-Frankenstein.txt
+
+**Frankenstein**
 |Adjective      | Frequency      | Adverb         | Frequency      |
 |-------------- | -------------- | -------------- | -------------- |
 |own            | 104            | not            | 551            |
@@ -141,7 +142,8 @@ Frankenstein.txt
 |poor           | 38             | thus           | 48             |
 |last           | 31             | away           | 43             |
 
-The_Problems_of_Philosophy_by_Bertrand_Russell.txt
+
+**The_Problems_of_Philosophy_by_Bertrand_Russell**
 |Adjective      | Frequency      | Adverb         | Frequency      |
 |-------------- | -------------- | -------------- | -------------- |
 |such           | 150            | not            | 520            |
@@ -165,7 +167,7 @@ The_Problems_of_Philosophy_by_Bertrand_Russell.txt
 |present        | 28             | far            | 27             |
 |false          | 27             | just           | 27             |
 
-Frankenstein.txt
+**Frankenstein**
 |Bigram                        | Frequency            |Bigram                         |ConditionalProb     | Bigram                         |LMI                 |
 |--------------                | --------------       |--------------                 |--------------      | --------------                 |--------------      |
 |old man                       | 34                   |old man                        |0.00361             | old man                        |448.8               |
@@ -189,7 +191,8 @@ Frankenstein.txt
 |” “                           | 6                    |own heart                      |0.00072             | ” “                            |78.1                |
 |next morning                  | 6                    |” “                            |0.00072             | short time                     |78.09               |
 
-The_Problems_of_Philosophy_by_Bertrand_Russell.txt
+
+**The_Problems_of_Philosophy_by_Bertrand_Russell**
 |Bigram                        | Frequency            |Bigram                         |ConditionalProb     | Bigram                         |LMI                 |
 |--------------                | --------------       |--------------                 |--------------      | --------------                 |--------------      |
 |physical objects              | 42                   |physical objects               |0.00959             | physical objects               |508.03              |

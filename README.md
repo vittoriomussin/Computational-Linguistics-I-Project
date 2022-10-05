@@ -8,7 +8,7 @@ Program 1 - Compare two texts (at least 5000 words each) based on the following 
 
 - the number of hapaxes on the first 1000 tokens;
 
-- the vocabulary size and lexical richness calculated through the Type Token Ratio (TTR), in both cases calculated as the corpus increases for incremental portions of 500 tokens; (*I have replaced this output with a plot)
+- the vocabulary size and lexical richness calculated through the Type Token Ratio (TTR), in both cases calculated as the corpus increases for incremental portions of 500 tokens*; 
 
 - percentage distribution of the set of full words (Adjectives, Nouns, Verbs, Adverbs) and functional words (Articles, Prepositions, Conjunctions, Pronouns).
 
@@ -25,13 +25,16 @@ Program 2 - For each of the two corpora extract the following information:
   - with maximum conditional probability, also indicating the relative probability;
   - with maximum associative strength (calculated in terms of Local Mutual Information), also indicating the relative strength of association;
 
-- extract sentences with at least 6 tokens and shorter than 25 tokens, where each individual token occurs at least twice in the reference corpus:
+- extract sentences with at least 6 tokens and shorter than 25 tokens, where each individual token occurs at least twice in the reference corpus**:
     - with the average frequency distribution of the highest tokens in one case and lowest in the other, also reporting the average frequency distribution. The average frequency distribution should be calculated by taking into account the frequency of all tokens in the sentence (calculating the frequency in the corpus from which the sentence was extracted) and dividing the sum of the frequencies by the number of tokens in the sentence;
     - with higher probability, where the probability must be calculated through a model Markov model of order 2. The model must use statistics extracted from the corpus that contains the sentences;
 
 
 after identifying and classifying the Named Entities (NEs) in the text, extract:
 - the 15 most frequent proper names of persons (types), ordered by frequency.
+
+*output replaced here with a plot
+**shown here only the first 5 senteces
 
 # Output Exemple
 

@@ -68,7 +68,7 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 |Lexical words:                 |48.67%	              |50.24%	             |
 |Functional words:              |40.18%	              |38.22%	             |
 
-
+-----------------------------------------
 
 ## Information Extraction
 

@@ -1,5 +1,3 @@
-|-------------------|
-
 # Computational-Linguistic-I-Project
 
 Program 1 - Compare two texts (at least 5000 words each) based on the following statistical information:

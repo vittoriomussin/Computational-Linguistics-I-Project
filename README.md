@@ -211,7 +211,7 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 |general propositions          | 7                    |daily life                     |0.00182             | general law                    |56.39               |
 
 **Frankenstein**
-|Frase                                                                                                                                                                 |Frequenza media|
+|Sentence                                                                                                                                                                |Mean Frequency|
 |--------------                                                                                                                                                        |--------------|
 |I thought of the occurrences of the day                                                                                                                               |2009.25   |
 |I abhorred the face of man                                                                                                                                            |1589.83   |
@@ -219,7 +219,7 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 |I lay on the deck looking at the stars and listening to the dashing of the waves                                                                                      |1582.53   |
 |I examined the materials of the fire and to my joy found it to be composed of wood                                                                                    |1423.44   |
 
-|Frase                                                                                                                                                                 |Frequenza media|
+|Sentence                                                                                                                                                                |Mean Frequency|
 |--------------                                                                                                                                                        |--------------|
 |Letter 4 _To Mrs. Saville England._ August 5th 17—                                                                                                                    |4.22      |
 |Dear Victor banish these dark passions                                                                                                                                |34.17     |
@@ -227,7 +227,7 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 |Yet why were these gentle beings unhappy                                                                                                                              |80.71     |
 |The most learned philosopher knew little more                                                                                                                         |91.86     |
 
-|Frase                                                                                                                                                                 |Probabilità|
+|Sentence                                                                                                                                                                |Probability|
 |--------------                                                                                                                                                        |--------------|
 |I will proceed with my tale                                                                                                                                           |9.17618284055179e-22|
 |I was formed for peaceful happiness                                                                                                                                   |9.17618284055179e-22|
@@ -236,7 +236,7 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 |I pressed on but in vain                                                                                                                                              |9.17618284055179e-22|
 
 **The_Problems_of_Philosophy**
-|Frase                                                                                                                                                                 |Frequenza media|
+|Sentence                                                                                                                                                                |Mean Frequency|
 |--------------                                                                                                                                                        |--------------|
 |They did not prove that the colour is in the mind of the percipient                                                                                                   |892.14    |
 |Nevertheless the probability of the general law is increased by repetitions just as the probability of the particular case is                                         |828.55    |
@@ -244,7 +244,7 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 |But the conclusion that the law of contradiction is a law of _thought_ is nevertheless erroneous                                                                      |793.88    |
 |This question is of the greatest importance                                                                                                                           |791.43    |
 
-|Frase                                                                                                                                                                 |Frequenza media|
+|Sentence                                                                                                                                                                |Mean Frequency|
 |--------------                                                                                                                                                        |--------------|
 |Suppose some statement made about Bismarck                                                                                                                            |47.67     |
 |Common words even proper names are usually really descriptions                                                                                                        |66.89     |
@@ -252,7 +252,7 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 |If he doubted he must exist if he had any experiences whatever he must exist                                                                                          |83.13     |
 |This function at least philosophy can perform                                                                                                                         |90.71     |
 
-|Frase                                                                                                                                                                 |Probabilità|
+|Sentence                                                                                                                                                                |Probability|
 |--------------                                                                                                                                                        |--------------|
 |and 'What beliefs are false '                                                                                                                                         |2.543808140726536e-20|
 |not 'What beliefs are true '                                                                                                                                          |1.5769113010141103e-20|

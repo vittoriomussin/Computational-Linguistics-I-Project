@@ -41,19 +41,20 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 
 ## General Statistics
 
-|                     |Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
+|                     |Frankenstein         |The_Problems_of_Philosophy|
 |---------------      |---------------      |---------------     |
 |Sentences:           |3075                 |1546                |
 |Tokens:              |85253                |48292               |
 
-|                               |Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
+|                               |Frankenstein         |The_Problems_of_Philosophy|
 |---------------                |---------------      |---------------     |
 |Mean sentence lenght:          |24.75                |28.01               |
 |Mean token lenght:             |4.39                 |4.56                |
 
-|                                        | Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
+|                                        | Frankenstein         |The_Problems_of_Philosophy|
 |---------------                         | ---------------      |---------------     |
 |Hapax in the firsts 1000 tokens:        | 371                  |258                 |
+
 
 ### Type Token Ratio
 
@@ -63,7 +64,7 @@ after identifying and classifying the Named Entities (NEs) in the text, extract:
 ![image](https://user-images.githubusercontent.com/81376065/193135327-afdc41a2-cd12-44d3-8927-1fd280ce9589.png)
 
 
-|                               |Frankenstein.txt     |The_Problems_of_Philosophy_by_Bertrand_Russell.txt|
+|                               |Frankenstein         |The_Problems_of_Philosophy|
 |---------------                |---------------      |---------------     |
 |Lexical words:                 |48.67%	              |50.24%	             |
 |Functional words:              |40.18%	              |38.22%	             |
